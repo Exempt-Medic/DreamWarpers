@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamWarpers", "DreamWarpers\DreamWarpers.csproj", "{A8799AF1-8E89-4C14-BD6D-682321D115F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{1F70F46B-A1CE-4C5B-B831-276F4E1F89B3}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\build.yml = .github\workflows\build.yml
+		.github\dependabot.yml = .github\dependabot.yml
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8799AF1-8E89-4C14-BD6D-682321D115F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8799AF1-8E89-4C14-BD6D-682321D115F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8799AF1-8E89-4C14-BD6D-682321D115F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8799AF1-8E89-4C14-BD6D-682321D115F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E17A1B-0499-4D20-9EE1-4B20C2DACC87}
+	EndGlobalSection
+EndGlobal
